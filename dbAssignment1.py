@@ -1,0 +1,1 @@
+# Read all the data from users table
