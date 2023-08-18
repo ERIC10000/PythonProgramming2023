@@ -98,6 +98,7 @@ def menu():
     print("6. Fuliza Mpesa")
     print("0. Exit")
     print("")
+    # comment
 
     while True:
         option = int(input(" Please Enter Your Choice?:  "))
